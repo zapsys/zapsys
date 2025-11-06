@@ -46,8 +46,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 ## 📊 Minhas Estatísticas do GitHub
 
-Estas estatísticas são atualizadas automaticamente!
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zapsys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de zapsys" />
   <br/>
