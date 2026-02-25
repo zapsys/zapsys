@@ -70,30 +70,4 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
-
-<br />
-
-## 📊 Minhas Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zapsys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de zapsys" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zapsys&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas por zapsys" />
-</p>
-
-<br />
-
-## 📫 Vamos nos Conectar!
-
-Você pode me encontrar nestas plataformas:
-
-<p align="left">
-  <a href="https://linkedin.com/in/aramzap" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:contato@zapwebsites.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://zapwebsites.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Website-5A6978?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
 </p>
